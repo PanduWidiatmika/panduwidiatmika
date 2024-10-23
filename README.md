@@ -15,3 +15,7 @@ I’m passionate about contributing to innovative projects that push the boundar
 | Design Toolbox | ![Figma](https://img.shields.io/badge/-Figma-black?style=flat&logo=figma&color=1D1D1D&logoColor=EA4C1D) |
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=PanduWidiatmika&color=blue)
+
+<div align="center">
+  <img src="https://media1.tenor.com/m/g7McJ4F3qAkAAAAd/metaphor-refantazio.gif" width="100"/>
+</div>
