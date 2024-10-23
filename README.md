@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Pandu, a Computer Science graduate with a strong foundation in programming, specializing in HTML, CSS, Java, and C, along with proficiency in data structures and algorithms. My hands-on experience from internships and projects has equipped me with skills in modern technologies like ReactJS, React Native, Docker, Node.js, ExpressJS, and PostgreSQL.
+I'm **Pandu**, a Computer Science graduate with a strong foundation in programming, specializing in HTML, CSS, Java, and C, along with proficiency in data structures and algorithms. My hands-on experience from internships and projects has equipped me with skills in modern technologies like ReactJS, React Native, Docker, Node.js, ExpressJS, and PostgreSQL.
 
 I’m passionate about contributing to innovative projects that push the boundaries of technology, with a focus on continuous learning and growth. Feel free to connect if you're interested in collaborating or exploring exciting opportunities in the world of computer science!
 
@@ -14,4 +14,4 @@ I’m passionate about contributing to innovative projects that push the boundar
 | Program Toolbox | ![Laravel](https://img.shields.io/badge/-Laravel%207%208%209-black?style=flat&logo=laravel&color=393c4d&logoColor=F05340) ![ReactJS](https://img.shields.io/badge/-ReactJS-black?style=flat&logo=react&color=5ED3F3&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat&logo=tailwindcss&color=0EAAB3&logoColor=white) |
 | Design Toolbox | ![Figma](https://img.shields.io/badge/-Figma-black?style=flat&logo=figma&color=1D1D1D&logoColor=EA4C1D) |
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=PanduWidiatmika.panduwidiatmika)
+![Visitor Count](https://komarev.com/ghpvc/?username=PanduWidiatmika&color=blue)
